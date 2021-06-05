@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "types of sorting sorting/1.0.0": {
+        "runtime": {
+          "types of sorting sorting.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "types of sorting sorting/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
