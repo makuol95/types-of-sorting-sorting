@@ -10,7 +10,7 @@ namespace types_of_sorting_sorting
     public class Array
     {
         public List<int> ArrayList = new List<int>();
-        private readonly string path = @"C:\Users\lord-\Desktop\project\portfolio\types of sorting sorting\types of sorting sorting\bin\Debug\net5.0\array.txt";
+        private readonly string path = @"C:\Users\lord-\Desktop\project\portfolio\types of sorting sorting\types-of-sorting-sorting\types of sorting sorting\bin\Debug\net5.0\array.txt";
         //строка подключения 
         public void Upload()
         {

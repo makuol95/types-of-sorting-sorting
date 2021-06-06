@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\lord-\\Desktop\\project\\portfolio\\types of sorting sorting\\types of sorting sorting\\types of sorting sorting.csproj",
+      "projectUniqueName": "C:\\Users\\lord-\\Desktop\\project\\portfolio\\types of sorting sorting\\types-of-sorting-sorting\\types of sorting sorting\\types of sorting sorting.csproj",
       "projectName": "types of sorting sorting",
-      "projectPath": "C:\\Users\\lord-\\Desktop\\project\\portfolio\\types of sorting sorting\\types of sorting sorting\\types of sorting sorting.csproj",
+      "projectPath": "C:\\Users\\lord-\\Desktop\\project\\portfolio\\types of sorting sorting\\types-of-sorting-sorting\\types of sorting sorting\\types of sorting sorting.csproj",
       "packagesPath": "C:\\Users\\lord-\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\lord-\\Desktop\\project\\portfolio\\types of sorting sorting\\types of sorting sorting\\obj\\",
+      "outputPath": "C:\\Users\\lord-\\Desktop\\project\\portfolio\\types of sorting sorting\\types-of-sorting-sorting\\types of sorting sorting\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\lord-\\AppData\\Roaming\\NuGet\\NuGet.Config",

@@ -16,6 +16,8 @@ namespace types_of_sorting_sorting
         {
             midle_menu();
             flag =logik_midle_menu();
+            Console.WriteLine("нажмити  Enter для подолжения");
+            Console.ReadKey();
             Console.Clear();
         }
         static public void midle_menu ()
